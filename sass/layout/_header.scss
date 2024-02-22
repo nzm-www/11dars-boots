@@ -1,0 +1,66 @@
+.headerdv {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-top: 20px;
+}
+.sectionsasa {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+.logo-h2 {
+  color: blue;
+  font-family: Helvetica Neue, sans-serif;
+  font-size: 22px;
+  font-weight: 700;
+  line-height: 23px;
+  letter-spacing: 0px;
+  text-align: left;
+}
+.logo-h2:hover {
+  color: chocolate;
+}
+.nav-list {
+  display: flex;
+  gap: 20px;
+}
+.nav-link {
+  font-family: Helvetica Neue, sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 23px;
+  letter-spacing: 0px;
+  text-align: left;
+}
+.nav-link:hover {
+  color: chocolate;
+}
+.btnqsm {
+  display: flex;
+  gap: 25px;
+  align-items: center;
+}
+.btn1 {
+  border: 2px solid #0000002e;
+  border-radius: 3px;
+  padding-top: 7px;
+  padding-bottom: 7px;
+  padding-left: 15px;
+  padding-right: 80px;
+}
+.btn2 {
+  border: 1px solid mediumblue;
+  border-radius: 3px;
+  padding-top: 7px;
+  padding-bottom: 7px;
+  padding-left: 19px;
+  padding-right: 19px;
+}
+.btn2:hover {
+  color: #fff;
+  background-color: blue;
+}
+.btn1:hover {
+  color: #fff;
+}
